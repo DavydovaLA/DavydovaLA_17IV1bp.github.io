@@ -124,10 +124,7 @@
 	margin: 0 auto;
 }
 
-.footer{
-	position: absolute;
-	left: 50%;
-	bottom: 10px;
+.madeby{
 	font-family: 'Ubuntu Condensed', sans-serif;
 	letter-spacing: 1px;
 	color:#808080;
